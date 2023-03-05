@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    font-family: 'Roboto Slab', sans-serif;
+}
+
+header {
+    padding: 50px;
+}
+
+header img{
+    height: 150px;
+    border-radius: 50%;
+}
+
+header, footer {
+    background-color: #8127A0;
+    text-align: center;
+    color: #ffffff;
+}
+
+section {
+    margin: 50px;
+    padding: 50px;
+    border-radius: 25px;
+    color: #000000;
+    background-color: #CD70F9;
+}
+
+footer {
+    padding: 10px;
+}
